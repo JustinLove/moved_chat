@@ -1,0 +1,21 @@
+{
+  "author": "wondible",
+  "build": "113953",
+  "category": [
+    "ui"
+  ],
+  "context": "client",
+  "date": "2020/02/13",
+  "description": "Moves chat over so it isn't covered by sandbox units",
+  "display_name": "Moved Chat",
+  "forum": "",
+  "identifier": "com.wondible.pa.moved_chat",
+  "priority": 100,
+  "scenes": {
+    "live_game": [
+      "coui://ui/mods/moved_chat/moved_chat.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.0.1"
+}
